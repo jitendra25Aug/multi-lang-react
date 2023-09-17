@@ -1,0 +1,30 @@
+{
+    "home": {
+        "main": {
+            "header": {
+                "part1": "change language",
+                "part2": "as your preference"
+            },
+            "p": {
+                "label": "Something worth mentioning about this website is the context translations it offers"
+            }
+        }
+    },
+    "nav": {
+        "home": "home",
+        "about": "about",
+        "English": "english",
+        "Hindi": "hindi",
+        "Italian": "italian"
+    },
+    "about": {
+        "main": {
+            "header": {
+                "label": "what is it"
+            },
+            "p": {
+                "label": "It translates between lots of languages, works very quickly, looks great. It's really helpful for one-time lookups, but is also nice to use for learning a new language. When you translate a website, position the foreign page right next to the one in your language so that you can learn which words are being translated to what, and the translations even continue as you click through the site"
+            }
+        }
+    }
+}

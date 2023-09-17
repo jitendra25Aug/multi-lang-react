@@ -1,0 +1,30 @@
+{
+    "home": {
+        "main": {
+            "header": {
+                "part1": "cambia lingua",
+                "part2": "come tua preferenza"
+            },
+            "p": {
+                "label": "Qualcosa che vale la pena menzionare su questo sito Web sono le traduzioni di contesto che offre"
+            }
+        }
+    },
+    "nav": {
+        "home": "Casa",
+        "about": "Riguardo a noi",
+        "English": "inglese",
+        "Hindi": "hindi",
+        "Italian": "italiana"
+    },
+    "about": {
+        "main": {
+            "header": {
+                "label": "che cos'è"
+            },
+            "p": {
+                "label": "Traduce tra molte lingue, funziona molto rapidamente, ha un bell'aspetto. È davvero utile per le ricerche una tantum, ma è anche utile da usare per imparare una nuova lingua. Quando traduci un sito web, posiziona la pagina straniera proprio accanto a quella nella tua lingua in modo da poter sapere quali parole vengono tradotte in cosa e le traduzioni continuano anche mentre fai clic sul sito"
+            }
+        }
+    }
+}
